@@ -1,0 +1,65 @@
+body{
+  font-family: "Roboto";
+  margin: 0px;
+
+}
+
+header,
+.hero,
+footer{
+  background-color: #1F2937;
+}
+
+.hero-main{
+  font-size: 48px;
+  font-weight: 900;
+  color: #F9FAF8;
+}
+
+.hero-sec,
+a{
+  font-size: 18px;
+  color: #E5E7EB;
+  text-decoration: none;
+  
+}
+
+ul{
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+li{
+  list-style-type: none;
+  
+}
+
+.logo{
+  font-size: 24px;
+  color: #F9FAF8;
+}
+
+.sign-up1{
+  background-color: #3882F6;
+}
+
+.information{
+  font-size: 36px;
+  font-weight: bold;
+  color: #1F2937
+}
+
+.grey{
+  background-color: #E5E7EB;
+}
+
+.quote{
+  font-size: 36px;
+  font-style: italic;
+  color: #1F2937;
+  
+}
+
+.box{
+  background-color: #3882F6;
+}
